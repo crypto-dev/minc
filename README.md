@@ -29,3 +29,8 @@ http://minionscoin.hopto.org</br>
 Wallets:</br>
 Mac: https://github.com/minionscoin/minc/blob/master/wallets/MinionsCoin-Wallet-Mac.dmg </br>
 Windows: https://github.com/minionscoin/minc/blob/master/wallets/MinionsCoin-Wallet-Win.zip </br>
+
+Pool:</br>
+http://poolkeepers.hopto.org/getting_started</br>
+VarDiff port:7112</br>
+Diff 8192 port:7114</br>
