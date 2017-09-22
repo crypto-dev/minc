@@ -23,15 +23,10 @@ Ports:</br>
 RPC: 7683</br>
 TCP: 7685</br>
 
-Explorer:</br>
-http://minionscoin.hopto.org</br>
+
 </br>
 Wallets:</br>
-Mac: https://github.com/minionscoin/minc/blob/master/wallets/MinionsCoin-Wallet-Mac.dmg </br>
-Mac: https://github.com/minionscoin/minc/blob/master/wallets/MinionsCoin-Wallet-Mac-v1.1.dmg (with UPNP)</br>
-Windows: https://github.com/minionscoin/minc/blob/master/wallets/MinionsCoin-Wallet-Win.zip </br>
+Mac: https://github.com/crypto-dev/minc/blob/master/wallets/MinionsCoin-Wallet-Mac.dmg </br>
+Mac: https://github.com/crypto-dev/minc/blob/master/wallets/MinionsCoin-Wallet-Mac-v1.1.dmg (with UPNP)</br>
+Windows: https://github.com/crypto-dev/minc/blob/master/wallets/MinionsCoin-Wallet-Win.zip </br>
 
-Pool:</br>
-http://poolkeepers.hopto.org/getting_started</br>
-VarDiff port:7112</br>
-Diff 8192 port:7114</br>
